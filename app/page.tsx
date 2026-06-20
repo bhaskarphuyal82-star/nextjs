@@ -16,6 +16,10 @@ export default function Home() {
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
            Nextjs update
           </h1>
+            <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
+           Nextjs update
+          </h1>
+         
          
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
